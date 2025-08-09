@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou MarceloFDiniz
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/MarceloFDiniz?theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/MarceloFDiniz?config=config.json?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/MarceloFDiniz?config=config.json">
 </picture>
 
