@@ -1,5 +1,10 @@
 # 👋 Olá, eu sou MarceloFDiniz
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/MarceloFDiniz?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/MarceloFDiniz">
+</picture>
+
 ## 🧑‍💻 Sobre mim
 
 Sou Consultor em Tecnologia, apaixonado por inovação e pelo universo digital. Apesar de já ter bastante experiência em TI, estou dando meus primeiros passos no mundo da programação e do Git. Sempre aberto a aprender e compartilhar conhecimento, acredito que tecnologia é feita para aproximar pessoas e criar soluções.
