@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/MarceloFDiniz?theme=dark">
-  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/MarceloFDiniz">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/MarceloFDiniz?config=config.json">
 </picture>
 
 ## 🧑‍💻 Sobre mim
