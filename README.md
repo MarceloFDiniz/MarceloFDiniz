@@ -1,19 +1,33 @@
-## Olá 👋
+# 👋 Olá, eu sou MarceloFDiniz
 
-🌱 I’m currently learning github
+## 🧑‍💻 Sobre mim
 
+Sou Consultor em Tecnologia, apaixonado por inovação e pelo universo digital. Apesar de já ter bastante experiência em TI, estou dando meus primeiros passos no mundo da programação e do Git. Sempre aberto a aprender e compartilhar conhecimento, acredito que tecnologia é feita para aproximar pessoas e criar soluções.
 
-<!--
-**MarceloFDiniz/MarceloFDiniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Habilidades
 
-Here are some ideas to get you started:
+- **Python**
+- **HTML**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certificações
+
+- Microsoft Certified
+- ITIL Foundation
+
+## 🌐 Redes Sociais
+
+Você pode me encontrar em todas as principais redes sociais pelo perfil **marcelofdiniz**:
+
+- [LinkedIn](https://www.linkedin.com/in/marcelofdiniz)
+- [Twitter/X](https://twitter.com/marcelofdiniz)
+- [Instagram](https://instagram.com/marcelofdiniz)
+- [Facebook](https://facebook.com/marcelofdiniz)
+- [GitHub](https://github.com/marcelofdiniz)
+
+## 🕹️ Hobbies & Paixões
+
+Fora da tecnologia, sou fã de cinema, literatura, quadrinhos, podcasts e RPG. Acredito que criatividade e curiosidade movem o mundo!
+
+---
+
+Sinta-se à vontade para entrar em contato ou trocar ideias sobre tecnologia, cultura pop ou qualquer outro assunto!
