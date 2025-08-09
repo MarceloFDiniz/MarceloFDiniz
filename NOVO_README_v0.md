@@ -72,6 +72,31 @@ Observabilidade | Automação | Integrações
 
 ```
 
+<!-- <div style="background:#111; border:2px solid #888; border-radius:8px; padding:18px; font-family: 'Fira Mono', 'Consolas', 'Menlo', monospace; color:#fff; max-width:520px; margin:auto; font-size:1.05em;">
+  <div>
+    <span style="color:#39ff14; text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;">&gt; whoami</span>
+    <br>
+    <span style="color:#00eaff;">Marcelo Diniz — Consultor de Tecnologia</span>
+  </div>
+  <br>
+  <div>
+    <span style="color:#39ff14; text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;">&gt; focus --now</span>
+    <br>
+    <span style="color:#00eaff;">Observabilidade | Automação | Integrações</span>
+  </div>
+  <br>
+  <div>
+    <span style="color:#39ff14; text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;">&gt; motto</span>
+    <br>
+    <span style="color:#00eaff;">"Problemas / Empenho (Criatividade + Curiosidade)^2 = SOLUÇÕES"</span>
+  </div>
+  <br>
+  <div>
+    <span style="color:#39ff14; text-shadow: 0 0 8px #39ff14, 0 0 2px #fff;">&gt; _</span>
+    <br>    
+  </div>
+</div> -->
+
 ---
 
 ## 🔭 Telemetria do perfil
