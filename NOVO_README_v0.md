@@ -1,7 +1,15 @@
-<!-- ===================== HEADER ===================== -->
+<!-- Neon banner -->
 <p align="center">
+  <a href="https://capsule-render.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:7F5AF0&height=180&section=header&text=Bem-vindo%20ao%20meu%20hub&fontColor=fff&fontAlignY=35&fontSize=36&animation=fadeIn&desc=Infra%2C%20Automação%2C%20Dados%20e%20um%20pouco%20de%20Sci-Fi&descAlignY=60&descAlign=50" alt="Neon banner" />
+  </a>
+</p>
+
+<!-- ===================== HEADER ===================== -->
+
+<p align="right">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&amp;size=32&amp;duration=3500&amp;pause=600&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Marcelo+F.+Diniz;Consultor+de+Tecnologia+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Construindo+solu%C3%A7%C3%B5es+que+n%C3%A3o+quebram+na+vida+real" alt="Headline animado: Marcelo F. Diniz — Consultor de Tecnologia" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&amp;size=28&amp;duration=3500&amp;pause=600&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Marcelo+F.+Diniz;Consultor+de+Tecnologia+%7C+Automa%C3%A7%C3%A3o+%7C+Dados;Construindo+solu%C3%A7%C3%B5es+que+n%C3%A3o+quebram+na+vida+real" alt="Headline animado: Marcelo F. Diniz — Consultor de Tecnologia" />
   </a>
 </p>
 
@@ -12,12 +20,7 @@
   <img alt="Focus" src="https://img.shields.io/badge/FOCUS-AUTOMA%C3%87%C3%83O%20%2F%20OBSERVABILITY-7f5af0?style=for-the-badge&logo=logstash">
 </p>
 
-<!-- Neon banner -->
-<p align="center">
-  <a href="https://capsule-render.vercel.app">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA6,100:7F5AF0&height=180&section=header&text=Bem-vindo%20ao%20meu%20hub&fontColor=fff&fontAlignY=35&fontSize=36&animation=fadeIn&desc=Infra%2C%20Automação%2C%20Dados%20e%20um%20pouco%20de%20Sci-Fi&descAlignY=60&descAlign=50" alt="Neon banner" />
-  </a>
-</p>
+
 
 ---
 
@@ -37,19 +40,31 @@
 
 > **Interesses atuais:** versionamento de PI AF, ETL leve para observability, automações no Power Automate e rotinas de backup inteligentes.
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=codeforces&logoColor=000" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/AVEVA%20PI-A0A0A0?logo=data:image/svg+xml;base64,PHN2Zy8+&logoColor=000" />
+    <img src="https://img.shields.io/badge/AVEVA%20PI-A0A0A0?logo=sketchfab&logoColor=000" />
+</p>
+
 ---
 
 ## ⚙️ Console (mini-painel)
 
 ```bash
 
-whoami
+> whoami
 Marcelo F. Diniz — Consultor de Tecnologia
 
-focus --now
+> focus --now
 Automação de rotinas | Observabilidade | Integrações Python/PowerShell
 
-motto
+> motto
 "Se não dá para reproduzir, não está pronto."
 
 ```
