@@ -62,13 +62,13 @@
 ```bash
 
 > whoami
-Marcelo Diniz — Consultor de Tecnologia
+'Marcelo Diniz — Consultor de Tecnologia'
 
 > focus --now
-Observabilidade | Automação | Integrações
+'Observabilidade | Automação | Integrações'
 
 > motto
-"Problemas / Empenho (Criatividade + Curiosidade)^2 = SOLUÇÕES"
+'Problemas / Empenho (Criatividade + Curiosidade)^2 = SOLUÇÕES'
 
 ```
 
@@ -154,7 +154,7 @@ Observabilidade | Automação | Integrações
 
 ## 🕹️ Fora do teclado
 
-> Cinema, literatura, música, quadrinhos, podcasts e RPG.
+Cinema, literatura, música, quadrinhos, podcasts e RPG.
 
 ---
 
