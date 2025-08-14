@@ -41,7 +41,7 @@
 
 ---
 
-## 🧪 Tech Radar
+## 🗺️ Tech Radar
 
 > **Interesses atuais:** rotinas de backup inteligentes, automações no Power Automate e Python, Python, Python, Python e mais um pouquinho de Python!
 
@@ -57,7 +57,7 @@
 
 ---
 
-## ⚙️ Console 
+## 🔳 Console 
 
 ```bash
 
